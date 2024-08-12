@@ -1,4 +1,4 @@
-#Reconhecimento de Texto em Imagens com Microsoft Copilot
+# Reconhecimento de Texto em Imagens com Microsoft Copilot
 
 ## Insights e Possibilidades
 - **Precisão do Reconhecimento**: O uso do Microsoft Copilot mostrou-se eficiente na extração de texto de imagens variadas, desde placas de trânsito até letreiros luminosos.
@@ -11,6 +11,3 @@ Este projeto demonstrou a eficácia do reconhecimento de texto em imagens utiliz
 ## Como Contribuir
 Se você deseja contribuir com este projeto, sinta-se à vontade para fazer um fork do repositório e enviar pull requests com melhorias ou novas funcionalidades.
 
----
-
-Espero que este exemplo ajude você a criar seu próprio `README.md`! Se precisar de mais alguma coisa, estou aqui para ajudar. 😊
